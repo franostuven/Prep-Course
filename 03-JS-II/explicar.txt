@@ -1,0 +1,15 @@
+for
+&&, ||, !
+
+La sentencia for, se utiliza para recorrer una lista, es lo que se llama bucle ya que se ejecuta cierta cantidad de veces.
+Seria como recorrer un circulo cirta cantidad de veces, segun los elementos que tenga esa lista.
+Si hay un listado de 10 alumnos, el for recorrera 10 veces 1 por cada alumno que encuentre.
+
+Los signos && , || y ! son signos de desicion (condicionales), se utilizan en sentencias que toman desiciones, como en una sentencia if.
+el signo && significa AND (o sea y)  esto quiere decir  si algo es verdadero y  la otra cosa es verdadero -> entonces se cumple la condicion. (es verdadero)
+Se tienen que cumplir las 2 condiciones, si una de las 2 o las 2 no se cumplen, no pasa.
+
+El signo || significa OR (o sea ó) al igual que el anterior se utiliza como condicion  si se cumple ESTO || ESTO -> entonces se cumple la condicion (es verdadero)
+Si una de las dos se cumple pasa la condicion. Ej. Si sos Alto o Rapido ->entras, con que 1 de las 2 condiciones se cumple, pasa la prueba.
+
+El el signo ! significa una negacion NOT (o sea No es), un ejemplo seria:  Si No es Alto -> entra.   se escribo  if( !Alto) -> verdadero.
