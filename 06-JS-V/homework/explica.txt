@@ -6,5 +6,6 @@ Prototype: Es la base o estructura en que esta formado JavaScript. JabaScript es
            nos dice el tamaño o laro del String y metodos como trim() el cual elimina espacios en blanco de la cadena.
            
 Constructor:  Es una parte fundamental de la clase ya que  es la funcion en donde se declaran los parametros y  donde se definen las variables que utilizara
-              dentro de la clase. Es por medio del nombre de la clase que se la invoca con sus parametros.
+              dentro de la clase. Solo puede haber un metodo Constructor en la clase. Es por medio de esta funcion o metodo que se crea una nueva instancia 
+              de la clase.
             
