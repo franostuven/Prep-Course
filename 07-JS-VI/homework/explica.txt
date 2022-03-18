@@ -1,1 +1,17 @@
+Funciones Callback
 
+Las Callback son funciones que son utilizadas como parametros de otras funciones, siempre tienen que retornar algun valor ya que se utilizan como parametros de otra funcion.
+
+por ejemplo: La funcion cb (Callback se pasa como parametro a la otra funcion)
+
+                     function saludar( mensaje, cb){
+                          return cb(mensaje);
+                     }
+                     
+                     
+                     function presentarPersona(persona){
+                          return 'Hola soy ' + persona;
+                     }
+                     
+                     
+                     saludar('Francisco', presentarPersona);
