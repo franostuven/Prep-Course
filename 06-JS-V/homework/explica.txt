@@ -1,0 +1,10 @@
+prototype
+Constructors (de Clases)
+
+Prototype: Es la base o estructura en que esta formado JavaScript. JabaScript es un lenguaje de Objetos y sus objetos basados en Prototype que es la estructura 
+           que forma este objeto y contiene los metodos y propiedades que se pueden utilizar. Por ejemplo. El objeto String, tienen propiedades como length que
+           nos dice el tamaño o laro del String y metodos como trim() el cual elimina espacios en blanco de la cadena.
+           
+Constructor:  Es una parte fundamental de la clase ya que  es la funcion en donde se declaran los parametros y  donde se definen las variables que utilizara
+              dentro de la clase. Es por medio del nombre de la clase que se la invoca con sus parametros.
+            
