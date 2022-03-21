@@ -6,7 +6,7 @@ const {
 	sumarArray,
 	forEach,
 	map,
-	filter
+	filter 
 } = require('../homework');
 
 describe('mayuscula(nombre)', function() {
